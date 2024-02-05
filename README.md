@@ -38,6 +38,7 @@ To run the application locally, follow these steps:
 
 Detailed application flow can be found here : 
 
+https://drive.google.com/file/d/19O72lUKDYuIg6PuBqLT8LNlHNjGwH5qE/view?usp=sharing
 
 Feel free to enhance the application as per your requirement.
 
