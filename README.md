@@ -24,7 +24,7 @@ The application incorporates the following technologies:
 ## Setup Instructions
 To run the application locally, follow these steps:
 
-1. __Clone the repository__: ``` https://github.com/vanam52923/RestaurantDecider.git```
+1. __Clone the repository__: ``` https://github.com/vanam52923/RestaurantFinder.git```
 2. __Navigate to the project directory__: ```cd restaurant-backend```
 3. __Set up the backend server__:
    - Install the dependencies: ```mvn clean install```
